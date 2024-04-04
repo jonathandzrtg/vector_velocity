@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: b4335c914efe3c8419e2957377b3fc2c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mesa de trabajo 11_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 368
+        width: 242
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de4fcffda734954191bc3ed1abe723d
+      internalID: -1427665102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesa de trabajo 11_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 430
+        width: 191
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc8f8c734e02b4399465e7ea9a0681
+      internalID: 610295548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesa de trabajo 11_15
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 428
+        width: 186
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ab1384e5844d4ca3229e51fb10771
+      internalID: -1954884760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesa de trabajo 11_20
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 470
+        width: 252
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569b831543e5c78408b0de635a16c75b
+      internalID: -2076492680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesa de trabajo 11_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 453
+        width: 153
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfee531f8a82a1c40931b06b63c1fd44
+      internalID: 499750018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesa de trabajo 11_22
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 430
+        width: 200
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b803e3fde6080f4ba16d0cca3e88f02
+      internalID: 65235071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesa de trabajo 11_23
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 437
+        width: 185
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21863c0de6b21d74ea960b7d0c1b01e0
+      internalID: 272535698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mesa de trabajo 11_0: -833631059
+      Mesa de trabajo 11_1: -180546851
+      Mesa de trabajo 11_10: -1689438460
+      Mesa de trabajo 11_11: -1362773185
+      Mesa de trabajo 11_12: -1345471498
+      Mesa de trabajo 11_13: -101046477
+      Mesa de trabajo 11_14: 610295548
+      Mesa de trabajo 11_15: -1954884760
+      Mesa de trabajo 11_16: 53318445
+      Mesa de trabajo 11_17: -934132395
+      Mesa de trabajo 11_18: -1248842520
+      Mesa de trabajo 11_19: -1309980354
+      Mesa de trabajo 11_2: -1133976190
+      Mesa de trabajo 11_20: -2076492680
+      Mesa de trabajo 11_21: 499750018
+      Mesa de trabajo 11_22: 65235071
+      Mesa de trabajo 11_23: 272535698
+      Mesa de trabajo 11_24: 1218234633
+      Mesa de trabajo 11_25: 852259213
+      Mesa de trabajo 11_26: 410794226
+      Mesa de trabajo 11_27: -1644339151
+      Mesa de trabajo 11_28: 1560245053
+      Mesa de trabajo 11_29: 420487400
+      Mesa de trabajo 11_3: -1987554083
+      Mesa de trabajo 11_30: -84871946
+      Mesa de trabajo 11_31: 1455110422
+      Mesa de trabajo 11_32: 1028692437
+      Mesa de trabajo 11_33: 2089355620
+      Mesa de trabajo 11_34: -314423747
+      Mesa de trabajo 11_35: -1795797414
+      Mesa de trabajo 11_36: -2041531102
+      Mesa de trabajo 11_37: -242724819
+      Mesa de trabajo 11_38: 305125755
+      Mesa de trabajo 11_39: -182753952
+      Mesa de trabajo 11_4: 139103965
+      Mesa de trabajo 11_40: -987499339
+      Mesa de trabajo 11_41: -487976153
+      Mesa de trabajo 11_42: -866963441
+      Mesa de trabajo 11_43: -1139943170
+      Mesa de trabajo 11_44: 1660473538
+      Mesa de trabajo 11_45: 1184915083
+      Mesa de trabajo 11_46: -787541132
+      Mesa de trabajo 11_47: 767296377
+      Mesa de trabajo 11_48: 1522358919
+      Mesa de trabajo 11_49: 1495946463
+      Mesa de trabajo 11_5: -1427665102
+      Mesa de trabajo 11_50: 25380414
+      Mesa de trabajo 11_51: -1666279457
+      Mesa de trabajo 11_52: 1762276610
+      Mesa de trabajo 11_53: -1057993212
+      Mesa de trabajo 11_6: -626151168
+      Mesa de trabajo 11_7: 1810262129
+      Mesa de trabajo 11_8: 1308951006
+      Mesa de trabajo 11_9: 5411421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
