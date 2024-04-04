@@ -13,7 +13,7 @@ public class movimiento : MonoBehaviour
         
     }
 
-  
+
     void Update()
     {
         
