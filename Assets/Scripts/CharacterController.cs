@@ -11,9 +11,14 @@ public class CharacterController : MonoBehaviour
     public float rotationSpeed = 360f;
     public GameObject explosionPrefab; // Prefab del efecto de explosión
 
+    private AudioSource audioSource;
+    public AudioClip sonidoSalto;
+    public AudioClip sonidoMoneda;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -22,6 +27,7 @@ public class CharacterController : MonoBehaviour
         {
             rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
             isJumping = true;
+            audioSource.PlayOneShot(sonidoSalto);
         }
 
         if (!isJumping)
@@ -66,5 +72,15 @@ public class CharacterController : MonoBehaviour
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         // Recargar la escena actual
         SceneManager.LoadScene(currentSceneIndex);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collider)
+    {
+        // Verifica si el objeto con el que colisionó tiene la etiqueta "Moneda"
+        if (collider.CompareTag("Moneda"))
+        {
+            audioSource.PlayOneShot(sonidoMoneda);
+            Destroy(collider.gameObject); // Destruye el objeto moneda
+        }
     }
 }
