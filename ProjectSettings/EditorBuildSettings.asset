@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: e3e1e014082fc624da9df844576d4d8e
+  - enabled: 0
+    path: Assets/Scenes/vector_velocity_personaje.unity
+    guid: f76db012a274729489019a01c657ebab
+  - enabled: 1
+    path: Assets/Scenes/vector_velocity_personaje 1.unity
+    guid: db9853f8a5541094991d204a5d8741cf
   m_configObjects: {}

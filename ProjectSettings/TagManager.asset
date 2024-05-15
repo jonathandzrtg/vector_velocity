@@ -8,6 +8,7 @@ TagManager:
   - Destroy
   - Jugador
   - Moneda
+  - Ganar
   layers:
   - Default
   - TransparentFX

@@ -9,7 +9,7 @@ public class CharacterController : MonoBehaviour
     public Rigidbody2D rb;
     public bool isJumping = false;
     public float rotationSpeed = 360f;
-    public GameObject explosionPrefab; // Prefab del efecto de explosión
+    public GameObject explosionPrefab; // Prefab del efecto de explosiï¿½n
 
     private AudioSource audioSource;
     public AudioClip sonidoSalto;
@@ -39,7 +39,7 @@ public class CharacterController : MonoBehaviour
             RotateCharacter();
         }
 
-        // Verificar si el personaje toca el borde izquierdo de la cámara
+        // Verificar si el personaje toca el borde izquierdo de la cï¿½mara
         if (transform.position.x <= Camera.main.ViewportToWorldPoint(Vector3.zero).x)
         {
             RestartGame();
@@ -55,7 +55,7 @@ public class CharacterController : MonoBehaviour
     {
         if (col.gameObject.tag == "Destroy")
         {
-            // Crear el efecto de explosión
+            // Crear el efecto de explosiï¿½n
             //Instantiate(explosionPrefab, transform.position, Quaternion.identity);
             // Reiniciar el juego
             RestartGame();
@@ -64,11 +64,15 @@ public class CharacterController : MonoBehaviour
         {
             isJumping = false;
         }
+        else if (col.gameObject.tag == "Ganar") 
+        {
+             SceneManager.LoadScene("Main menu");
+        }
     }
 
     void RestartGame()
     {
-        // Obtener el índice de la escena actual
+        // Obtener el ï¿½ndice de la escena actual
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         // Recargar la escena actual
         SceneManager.LoadScene(currentSceneIndex);
@@ -76,11 +80,12 @@ public class CharacterController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collider)
     {
-        // Verifica si el objeto con el que colisionó tiene la etiqueta "Moneda"
+        // Verifica si el objeto con el que colisionï¿½ tiene la etiqueta "Moneda"
         if (collider.CompareTag("Moneda"))
         {
             audioSource.PlayOneShot(sonidoMoneda);
             Destroy(collider.gameObject); // Destruye el objeto moneda
         }
     }
+
 }
