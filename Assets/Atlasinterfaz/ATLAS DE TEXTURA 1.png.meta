@@ -1,0 +1,801 @@
+fileFormatVersion: 2
+guid: 170841144f92aa8478d41625b2214810
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1526
+        width: 282
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5beb48c6500054fb36ff71c760237c
+      internalID: -1395373670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_74
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1480
+        width: 135
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21cfdb6d883cf42bed15bf3bea4575
+      internalID: 1045025688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_75
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1480
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c99293ee60c8fa45beb0bf8a9736280
+      internalID: 1859918032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_76
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1480
+        width: 137
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046dc6cc6c37ec34ea32640391db1b5a
+      internalID: -209814535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_77
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1551
+        width: 283
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94b20d84c2d47c4d8f194c47b5037eb
+      internalID: 1204756121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_78
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1479
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b709aaf4d1b9f54c8c65634ded5e53c
+      internalID: 2088454692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_79
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1479
+        width: 283
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabf73f60aabcd24b96e281df9a02eb0
+      internalID: 1023866345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_80
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1404
+        width: 283
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9b515264573924688a61c237771865
+      internalID: 1337310518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1138
+        width: 226
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aaf019bd6f15b46b8b37db30aaf732
+      internalID: -323719086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_95
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 826
+        width: 177
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e447d0487ffba248a5ff877420450fb
+      internalID: 129702715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_96
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 826
+        width: 182
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c41ef7a0cc1f41a2f59d45a1f8a11
+      internalID: 1957464275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_97
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 824
+        width: 210
+        height: 138
+      alignment: 9
+      pivot: {x: 0.49999914, y: 0.5300395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acbf393e80b4b1438c3f68580c93d1a
+      internalID: 647769666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_147
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 384
+        width: 305
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d36344341c6dc5468ee6dc5e53e5207
+      internalID: 180080554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_191
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 259
+        width: 304
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a7a54dc510f11408d2d783c17b9b2f
+      internalID: -482593870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_224
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 132
+        width: 305
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a314f2181033384e9413d65cd3ea981
+      internalID: -1634023617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_240
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 7
+        width: 303
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb0593d3078514aaa1f362a8bfc522
+      internalID: 1780888935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1498
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c21fe43ddd21949933367f36aaa6b3
+      internalID: 1816315036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 306
+        width: 356
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5d36d2d8de284fa39dde1f1637e7e
+      internalID: 1465855313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_9
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 0
+        width: 609
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e074efadac70c468e9916e12ad64da
+      internalID: -418236194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS DE TEXTURA 1_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1497
+        width: 224
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0e7c064d8ae240a565c2a43abfe75
+      internalID: 620400885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ATLAS DE TEXTURA 1_0: 620400885
+      ATLAS DE TEXTURA 1_1: -774309104
+      ATLAS DE TEXTURA 1_10: 1343104519
+      ATLAS DE TEXTURA 1_100: -1242115694
+      ATLAS DE TEXTURA 1_101: -712254901
+      ATLAS DE TEXTURA 1_102: -814101641
+      ATLAS DE TEXTURA 1_103: 1722225821
+      ATLAS DE TEXTURA 1_104: 1837766139
+      ATLAS DE TEXTURA 1_105: -261861165
+      ATLAS DE TEXTURA 1_106: 1692274782
+      ATLAS DE TEXTURA 1_107: -2070386848
+      ATLAS DE TEXTURA 1_108: -128421043
+      ATLAS DE TEXTURA 1_109: 913221196
+      ATLAS DE TEXTURA 1_11: 1960864227
+      ATLAS DE TEXTURA 1_110: -1072737724
+      ATLAS DE TEXTURA 1_111: 490456927
+      ATLAS DE TEXTURA 1_112: -1240943462
+      ATLAS DE TEXTURA 1_113: -977835671
+      ATLAS DE TEXTURA 1_114: -1097436443
+      ATLAS DE TEXTURA 1_115: -1187805899
+      ATLAS DE TEXTURA 1_116: 1675307237
+      ATLAS DE TEXTURA 1_117: -1139362131
+      ATLAS DE TEXTURA 1_118: 1993017736
+      ATLAS DE TEXTURA 1_119: 725902312
+      ATLAS DE TEXTURA 1_12: 1724668573
+      ATLAS DE TEXTURA 1_120: -620953302
+      ATLAS DE TEXTURA 1_121: 899195410
+      ATLAS DE TEXTURA 1_122: 1735134608
+      ATLAS DE TEXTURA 1_123: -972324407
+      ATLAS DE TEXTURA 1_124: -1124216841
+      ATLAS DE TEXTURA 1_125: 365305679
+      ATLAS DE TEXTURA 1_126: -1480984272
+      ATLAS DE TEXTURA 1_127: 1205885283
+      ATLAS DE TEXTURA 1_128: -1376882792
+      ATLAS DE TEXTURA 1_129: -1197353868
+      ATLAS DE TEXTURA 1_13: -1038351447
+      ATLAS DE TEXTURA 1_130: 760517851
+      ATLAS DE TEXTURA 1_131: 157140049
+      ATLAS DE TEXTURA 1_132: 1805855111
+      ATLAS DE TEXTURA 1_133: -571604929
+      ATLAS DE TEXTURA 1_134: 113629267
+      ATLAS DE TEXTURA 1_135: 1953329444
+      ATLAS DE TEXTURA 1_136: 1434062823
+      ATLAS DE TEXTURA 1_137: 1372735480
+      ATLAS DE TEXTURA 1_138: 629575954
+      ATLAS DE TEXTURA 1_139: -463879310
+      ATLAS DE TEXTURA 1_14: 1143483586
+      ATLAS DE TEXTURA 1_140: -38017882
+      ATLAS DE TEXTURA 1_141: 1372500998
+      ATLAS DE TEXTURA 1_142: 1850538390
+      ATLAS DE TEXTURA 1_143: -1121568752
+      ATLAS DE TEXTURA 1_144: 2012476862
+      ATLAS DE TEXTURA 1_145: -1436571120
+      ATLAS DE TEXTURA 1_146: -1366612011
+      ATLAS DE TEXTURA 1_147: 180080554
+      ATLAS DE TEXTURA 1_148: -1480767677
+      ATLAS DE TEXTURA 1_149: 1106332607
+      ATLAS DE TEXTURA 1_15: -885287042
+      ATLAS DE TEXTURA 1_150: 1104342023
+      ATLAS DE TEXTURA 1_151: 1307480789
+      ATLAS DE TEXTURA 1_152: -1639234145
+      ATLAS DE TEXTURA 1_153: -1070205289
+      ATLAS DE TEXTURA 1_154: 612622341
+      ATLAS DE TEXTURA 1_155: -2080754570
+      ATLAS DE TEXTURA 1_156: 761338723
+      ATLAS DE TEXTURA 1_157: 1968560112
+      ATLAS DE TEXTURA 1_158: 1912193284
+      ATLAS DE TEXTURA 1_159: 1017486060
+      ATLAS DE TEXTURA 1_16: 1634850278
+      ATLAS DE TEXTURA 1_160: 802270687
+      ATLAS DE TEXTURA 1_161: -1713883911
+      ATLAS DE TEXTURA 1_162: 38030487
+      ATLAS DE TEXTURA 1_163: 51103456
+      ATLAS DE TEXTURA 1_164: -166399829
+      ATLAS DE TEXTURA 1_165: 663539883
+      ATLAS DE TEXTURA 1_166: 1036896836
+      ATLAS DE TEXTURA 1_167: -1824094120
+      ATLAS DE TEXTURA 1_168: 1281294684
+      ATLAS DE TEXTURA 1_169: 77364584
+      ATLAS DE TEXTURA 1_17: 1416586020
+      ATLAS DE TEXTURA 1_170: -70661801
+      ATLAS DE TEXTURA 1_171: 370173948
+      ATLAS DE TEXTURA 1_172: -78007349
+      ATLAS DE TEXTURA 1_173: -1558336704
+      ATLAS DE TEXTURA 1_174: -185466286
+      ATLAS DE TEXTURA 1_175: -253208847
+      ATLAS DE TEXTURA 1_176: -192173202
+      ATLAS DE TEXTURA 1_177: -569544716
+      ATLAS DE TEXTURA 1_178: 1079555119
+      ATLAS DE TEXTURA 1_179: -1868243598
+      ATLAS DE TEXTURA 1_18: -207653559
+      ATLAS DE TEXTURA 1_180: 1114002385
+      ATLAS DE TEXTURA 1_181: -1664124961
+      ATLAS DE TEXTURA 1_182: -1783794672
+      ATLAS DE TEXTURA 1_183: 1582900963
+      ATLAS DE TEXTURA 1_184: 1280045351
+      ATLAS DE TEXTURA 1_185: 141309630
+      ATLAS DE TEXTURA 1_186: -1755976536
+      ATLAS DE TEXTURA 1_187: -589916548
+      ATLAS DE TEXTURA 1_188: 935523806
+      ATLAS DE TEXTURA 1_189: -438226515
+      ATLAS DE TEXTURA 1_19: 1898146965
+      ATLAS DE TEXTURA 1_190: 552335320
+      ATLAS DE TEXTURA 1_191: -482593870
+      ATLAS DE TEXTURA 1_192: -1992768188
+      ATLAS DE TEXTURA 1_193: -1085556847
+      ATLAS DE TEXTURA 1_194: 280933752
+      ATLAS DE TEXTURA 1_195: -573167636
+      ATLAS DE TEXTURA 1_196: 1600615029
+      ATLAS DE TEXTURA 1_197: -736535220
+      ATLAS DE TEXTURA 1_198: -2047736848
+      ATLAS DE TEXTURA 1_199: 392648170
+      ATLAS DE TEXTURA 1_2: 1385191459
+      ATLAS DE TEXTURA 1_20: -1358803186
+      ATLAS DE TEXTURA 1_200: -1978772949
+      ATLAS DE TEXTURA 1_201: -291761275
+      ATLAS DE TEXTURA 1_202: -506356160
+      ATLAS DE TEXTURA 1_203: -2145432604
+      ATLAS DE TEXTURA 1_204: -1221573096
+      ATLAS DE TEXTURA 1_205: 40907901
+      ATLAS DE TEXTURA 1_206: -759187523
+      ATLAS DE TEXTURA 1_207: -1195828973
+      ATLAS DE TEXTURA 1_208: -1869482386
+      ATLAS DE TEXTURA 1_209: 1371795380
+      ATLAS DE TEXTURA 1_21: 1454259057
+      ATLAS DE TEXTURA 1_210: -1467426321
+      ATLAS DE TEXTURA 1_211: -1778230698
+      ATLAS DE TEXTURA 1_212: 1173508538
+      ATLAS DE TEXTURA 1_213: 812036734
+      ATLAS DE TEXTURA 1_214: -1975919426
+      ATLAS DE TEXTURA 1_215: 584900230
+      ATLAS DE TEXTURA 1_216: 127850222
+      ATLAS DE TEXTURA 1_217: 1025006314
+      ATLAS DE TEXTURA 1_218: 1911863057
+      ATLAS DE TEXTURA 1_219: 47920339
+      ATLAS DE TEXTURA 1_22: -826406
+      ATLAS DE TEXTURA 1_220: 1894980073
+      ATLAS DE TEXTURA 1_221: 1029243614
+      ATLAS DE TEXTURA 1_222: -745256193
+      ATLAS DE TEXTURA 1_223: -351194747
+      ATLAS DE TEXTURA 1_224: -1634023617
+      ATLAS DE TEXTURA 1_225: -1109873569
+      ATLAS DE TEXTURA 1_226: -286052781
+      ATLAS DE TEXTURA 1_227: -562361823
+      ATLAS DE TEXTURA 1_228: 380007627
+      ATLAS DE TEXTURA 1_229: -452062043
+      ATLAS DE TEXTURA 1_23: -1428439338
+      ATLAS DE TEXTURA 1_230: -376152387
+      ATLAS DE TEXTURA 1_231: -1949424816
+      ATLAS DE TEXTURA 1_232: -1103810529
+      ATLAS DE TEXTURA 1_233: 957472906
+      ATLAS DE TEXTURA 1_234: 839530519
+      ATLAS DE TEXTURA 1_235: 803099646
+      ATLAS DE TEXTURA 1_236: -35622822
+      ATLAS DE TEXTURA 1_237: 1357945983
+      ATLAS DE TEXTURA 1_238: -2082413583
+      ATLAS DE TEXTURA 1_239: 1957971334
+      ATLAS DE TEXTURA 1_24: -1129841921
+      ATLAS DE TEXTURA 1_240: 1780888935
+      ATLAS DE TEXTURA 1_241: -1303295672
+      ATLAS DE TEXTURA 1_242: -270665572
+      ATLAS DE TEXTURA 1_243: -1829729290
+      ATLAS DE TEXTURA 1_244: 185488249
+      ATLAS DE TEXTURA 1_245: 1532247414
+      ATLAS DE TEXTURA 1_246: 2008060693
+      ATLAS DE TEXTURA 1_247: -837968676
+      ATLAS DE TEXTURA 1_248: 691813903
+      ATLAS DE TEXTURA 1_249: -1528880339
+      ATLAS DE TEXTURA 1_25: 1726072515
+      ATLAS DE TEXTURA 1_250: 1991533751
+      ATLAS DE TEXTURA 1_251: -1298939540
+      ATLAS DE TEXTURA 1_252: 957098304
+      ATLAS DE TEXTURA 1_253: 993913843
+      ATLAS DE TEXTURA 1_254: 543958308
+      ATLAS DE TEXTURA 1_255: -393781360
+      ATLAS DE TEXTURA 1_256: -1681885209
+      ATLAS DE TEXTURA 1_257: -1521327429
+      ATLAS DE TEXTURA 1_258: -47581055
+      ATLAS DE TEXTURA 1_259: -1383410268
+      ATLAS DE TEXTURA 1_26: 1652979134
+      ATLAS DE TEXTURA 1_260: -24520715
+      ATLAS DE TEXTURA 1_261: -1605324029
+      ATLAS DE TEXTURA 1_262: 1331914066
+      ATLAS DE TEXTURA 1_263: -1988074812
+      ATLAS DE TEXTURA 1_264: -1560633777
+      ATLAS DE TEXTURA 1_265: 79054944
+      ATLAS DE TEXTURA 1_266: -1831642866
+      ATLAS DE TEXTURA 1_27: -87748258
+      ATLAS DE TEXTURA 1_28: 846548995
+      ATLAS DE TEXTURA 1_29: -1389871616
+      ATLAS DE TEXTURA 1_3: 1816315036
+      ATLAS DE TEXTURA 1_30: -681078492
+      ATLAS DE TEXTURA 1_31: 814374817
+      ATLAS DE TEXTURA 1_32: -648137235
+      ATLAS DE TEXTURA 1_33: 386785659
+      ATLAS DE TEXTURA 1_34: -37431251
+      ATLAS DE TEXTURA 1_35: 124252369
+      ATLAS DE TEXTURA 1_36: 1765493635
+      ATLAS DE TEXTURA 1_37: -2021069243
+      ATLAS DE TEXTURA 1_38: 2022195118
+      ATLAS DE TEXTURA 1_39: -731709756
+      ATLAS DE TEXTURA 1_4: 256540028
+      ATLAS DE TEXTURA 1_40: 2008791676
+      ATLAS DE TEXTURA 1_41: 1890138581
+      ATLAS DE TEXTURA 1_42: -141409174
+      ATLAS DE TEXTURA 1_43: 1590860257
+      ATLAS DE TEXTURA 1_44: -2000139860
+      ATLAS DE TEXTURA 1_45: -949364458
+      ATLAS DE TEXTURA 1_46: -1293731585
+      ATLAS DE TEXTURA 1_47: 723781046
+      ATLAS DE TEXTURA 1_48: 985857926
+      ATLAS DE TEXTURA 1_49: -2140883552
+      ATLAS DE TEXTURA 1_5: 1770627782
+      ATLAS DE TEXTURA 1_50: 255135828
+      ATLAS DE TEXTURA 1_51: -258857649
+      ATLAS DE TEXTURA 1_52: -1259120473
+      ATLAS DE TEXTURA 1_53: 919623088
+      ATLAS DE TEXTURA 1_54: 1495113516
+      ATLAS DE TEXTURA 1_55: -1219249396
+      ATLAS DE TEXTURA 1_56: -488910437
+      ATLAS DE TEXTURA 1_57: 753698974
+      ATLAS DE TEXTURA 1_58: 1363335049
+      ATLAS DE TEXTURA 1_59: -366283590
+      ATLAS DE TEXTURA 1_6: 1883239054
+      ATLAS DE TEXTURA 1_60: 603331235
+      ATLAS DE TEXTURA 1_61: 1017092053
+      ATLAS DE TEXTURA 1_62: 387312471
+      ATLAS DE TEXTURA 1_63: 837151498
+      ATLAS DE TEXTURA 1_64: 1381812383
+      ATLAS DE TEXTURA 1_65: -1308021773
+      ATLAS DE TEXTURA 1_66: -725068437
+      ATLAS DE TEXTURA 1_67: -1395373670
+      ATLAS DE TEXTURA 1_68: -902870486
+      ATLAS DE TEXTURA 1_69: 1014350864
+      ATLAS DE TEXTURA 1_7: -603833620
+      ATLAS DE TEXTURA 1_70: -666974378
+      ATLAS DE TEXTURA 1_71: 1856899745
+      ATLAS DE TEXTURA 1_72: 1220972520
+      ATLAS DE TEXTURA 1_73: -1152477109
+      ATLAS DE TEXTURA 1_74: 1045025688
+      ATLAS DE TEXTURA 1_75: 1859918032
+      ATLAS DE TEXTURA 1_76: -209814535
+      ATLAS DE TEXTURA 1_77: 1204756121
+      ATLAS DE TEXTURA 1_78: 2088454692
+      ATLAS DE TEXTURA 1_79: 1023866345
+      ATLAS DE TEXTURA 1_8: 1465855313
+      ATLAS DE TEXTURA 1_80: 1337310518
+      ATLAS DE TEXTURA 1_81: 975405496
+      ATLAS DE TEXTURA 1_82: 519763254
+      ATLAS DE TEXTURA 1_83: 134493606
+      ATLAS DE TEXTURA 1_84: -310356501
+      ATLAS DE TEXTURA 1_85: 1201026941
+      ATLAS DE TEXTURA 1_86: -323719086
+      ATLAS DE TEXTURA 1_87: -385995640
+      ATLAS DE TEXTURA 1_88: -1710655314
+      ATLAS DE TEXTURA 1_89: -200633641
+      ATLAS DE TEXTURA 1_9: -418236194
+      ATLAS DE TEXTURA 1_90: 2105801434
+      ATLAS DE TEXTURA 1_91: 1101025822
+      ATLAS DE TEXTURA 1_92: -300461967
+      ATLAS DE TEXTURA 1_93: -615303389
+      ATLAS DE TEXTURA 1_94: 2063365514
+      ATLAS DE TEXTURA 1_95: 129702715
+      ATLAS DE TEXTURA 1_96: 1957464275
+      ATLAS DE TEXTURA 1_97: 647769666
+      ATLAS DE TEXTURA 1_98: -1989120449
+      ATLAS DE TEXTURA 1_99: 1402671606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
