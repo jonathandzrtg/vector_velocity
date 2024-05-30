@@ -66,7 +66,7 @@ public class CharacterController : MonoBehaviour
         }
         else if (col.gameObject.tag == "Ganar") 
         {
-             SceneManager.LoadScene("Main menu");
+             SceneManager.LoadScene("Final_Menu");
         }
     }
 
